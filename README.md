@@ -11,7 +11,7 @@
 
 <p align="center">
   <!-- AWS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
+  <img src=https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" width="40"/>
 
   <!-- Grafana -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40"/>
@@ -43,9 +43,10 @@
 
 ---
 
-### 📫 Contato
+🎧 What am I listening to?
 
-<div align="center">
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/mariakarolina15?si=c399c33eb1514e28)
+
   <a href="https://www.linkedin.com/in/mariaakarolina/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
