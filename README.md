@@ -1,5 +1,5 @@
 
-<h1 align="center">👋 Olá! Eu sou a Maria Karolina</h1>
+<h1 align="center">👋 HI! I'M Maria Karolina</h1>
 
 <p align="center">
 💻 DevSecOps | ☁️ Cloud Enthusiast | 🐧 Linux
