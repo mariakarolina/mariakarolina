@@ -11,7 +11,7 @@
 
 <p align="center">
   <!-- AWS -->
-  <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" width="40"/>
+  <img src="https://logospng.org/download/amazon-web-services/logo-amazon-web-services-1024.png" width="40"/>
 
   <!-- Grafana -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40"/>
