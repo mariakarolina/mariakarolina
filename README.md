@@ -42,7 +42,10 @@
 </p>
 
 ---
-
+<p>
+  <a href="https://www.linkedin.com/in/maria-karolina-932488219/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="mailto:mariakarolina916@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" />
   </a>
